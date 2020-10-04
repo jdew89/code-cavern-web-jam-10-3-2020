@@ -12,9 +12,9 @@
 		router-view
 		footer.footer
 			div.container.content
-				p This website was made by Jeff DeWitt for the Code Cavern Web Jam on 10/3/2020.
-				p You can visit the Code Cavern website by following&nbsp;
-					a(href="https://thecodecavern.com") this link.
+				p This website was made by Jeff DeWitt for the&nbsp;
+					a(href="https://thecodecavern.com" target="_blank") Code Cavern
+					| &nbsp;Web Jam on 10/3/2020.
 </template>
 
 <style lang="sass">
